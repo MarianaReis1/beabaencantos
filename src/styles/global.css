@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+    --color-brand-500: #d7bcfd;
+    --color-brand-800: #8b61c2;
+
+    --font-regular: 'Quicksand', sans-serif;
+}
